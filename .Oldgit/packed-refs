@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+a0122a7873e9c1e9a484849793ea8b4fd59a5aca refs/remotes/origin/Feature-1
+171fe192ad52d9b4fdd537c8fa4932adeac386e4 refs/remotes/origin/Loans
+cefcd6944a8a87e4c51e576f816a4f7dd892b998 refs/remotes/origin/loans
+a081005da30cf163ed2352fdf893b419083a52c7 refs/remotes/origin/master
